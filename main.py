@@ -1,5 +1,19 @@
-
+#tungsahur = input("do you know 2 + 2?")
+#if tungsahur.lower() == "yes":
+    #print("then what is it?")
+    #tungsahur2 = input()
+    #if tungsahur2 == "4":
+        #print("correct")
+    #else:
+        #print("incorrect")
+#if tungsahur.lower() == "no":
+    #print("You fricking donut! Go back to kindergarten")
+    #tungsahur3 = input()
+    #if tungsahur3 == "can you help me?":
+        #print("yes i can help you, 2+2=4" )
 # is a comment it dont fuck with code
+
+
 import random
 
 thingopponentplayed = random.randint(1,3)
